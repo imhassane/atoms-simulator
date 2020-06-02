@@ -12,7 +12,7 @@ class Atom:
 
         # Je sais plus c'est quoi la formule des coordonnées cartésiennes,
         # t'as juste à la mettre là :) :)
-        return (_x, _y, _z)
+        return (self._x, self._y, self._z)
 
     
     def getRayon(self):
